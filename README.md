@@ -235,7 +235,7 @@ Estas gráficas permiten visualizar el efecto de la complejidad sobre el bias, l
 
 El análisis completo, incluyendo tablas, gráficas, diagnóstico de bias y varianza, regularización y conclusiones, se encuentra en el siguiente documento:
 
-[**Ver reporte final en PDF**](./Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo..pdf)
+[**Ver reporte final en PDF**](./Momento de Retroalimentación_ Módulo 2 Análisis y Reporte sobre el desempeño del modelo..pdf)
 
 ---
 
@@ -249,7 +249,7 @@ El análisis completo, incluyendo tablas, gráficas, diagnóstico de bias y vari
 ├── comparacion_accuracy.png
 ├── comparacion_f1.png
 ├── regularizacion_random_forest.png
-└── Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo..pdf
+└── Momento de Retroalimentación_ Módulo 2 Análisis y Reporte sobre el desempeño del modelo..pdf
 ```
 
 ---
